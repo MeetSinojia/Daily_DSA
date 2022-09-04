@@ -1,6 +1,6 @@
 // 24-02-2022
 // sum subsequences for given array
-// Time=O(n*2^n); Space=O(n)
+// Time= O(n*2^n); Space=O(n)
 #include <bits/stdc++.h>
 using namespace std;
 
